@@ -14,7 +14,7 @@ const CONFIG = {
     github: {
       display: true, // Display GitHub projects?
       header: 'Github Projects',
-      mode: 'automatic', // Mode can be: 'automatic' or 'manual'
+      mode: 'manual', // Mode can be: 'automatic' or 'manual'
       automatic: {
         sortBy: 'stars', // Sort projects by 'stars' or 'updated'
         limit: 6, // How many projects to display.
@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['umayanganacooray/blog-hub', 'umayanganacooray/currency-app'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['umayanganacooray/blog-hub', 'umayanganacooray/currency-app', 'umayanganacooray/banking-app','umayanganacooray/banking-app','umayanganacooray/The-Bookshelf','umayanganacooray/XOXO','umayanganacooray-Student-Evaluation-System'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -129,7 +129,7 @@ const CONFIG = {
     },
     {
       institution: 'Anula Vidyalaya',
-      degree: 'A/L in Physical Stream',
+      degree: 'A/L in Physical Science',
       from: '2017',
       to: '2019',
     },
@@ -158,7 +158,7 @@ const CONFIG = {
   blog: {
     source: 'medium', // medium | dev
     username: 'ume.cooray', // to hide blog section, keep it empty
-    limit: 3, // How many articles to display. Max is 10.
+    limit: 2, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
