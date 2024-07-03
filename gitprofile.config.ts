@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['umayanganacooray/blog-hub', 'umayanganacooray/currency-app', 'umayanganacooray/banking-app','umayanganacooray/banking-app','umayanganacooray/The-Bookshelf','umayanganacooray/XOXO','umayanganacooray-Student-Evaluation-System'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['umayanganacooray/blog-hub', 'umayanganacooray/currency-app', 'umayanganacooray/banking-app','umayanganacooray/The-Bookshelf','umayanganacooray/XOXO','umayanganacooray-Student-Evaluation-System'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
